@@ -1,0 +1,2 @@
+# Wininit
+利用Windows在PowerShell中执行`wininit`导致系统蓝屏的机制让系统蓝屏的程序
